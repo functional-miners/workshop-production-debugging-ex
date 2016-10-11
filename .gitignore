@@ -1,0 +1,13 @@
+/_build
+/cover
+/deps
+/log
+/doc
+/rel/kv_store
+/storage/*.dets
+
+erl_crash.dump
+*.ez
+
+*.txt
+*.md

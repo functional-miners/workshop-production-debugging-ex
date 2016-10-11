@@ -1,0 +1,11 @@
+{
+    "name": "Elixir Key-Value Store - Workshop - Production debugging techniques for Elixir",
+    "repository": "https://github.com/functional-miners/workshop-production-debugging-ex",
+    "env": {
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/HashNuke/heroku-buildpack-elixir"
+        }
+    ]
+}
