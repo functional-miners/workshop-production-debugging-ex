@@ -1,6 +1,6 @@
 # Workshop - **Production Debugging Techniques for Elixir**
 
-## Occurrences
+## Editions
 
 - [**ElixirLive** (*Warsaw*, 2016)](http://www.elixirlive.com/workshops/#workshop2)
 
