@@ -9,6 +9,10 @@
 - *Erlang* - verified with: *18.3*
 - *Elixir* - verified with: *1.3.4*
 
+## Cheatsheet
+
+https://gist.github.com/afronski/f295e988b6358c6d179adb9d74d4c201
+
 For managing multiple *Erlang* versions we recommend [kerl](https://github.com/kerl/kerl), for managing multiple *Elixir* versions we recommend [kiex](https://github.com/taylor/kiex).
 
 ## Authors
