@@ -13,7 +13,11 @@ For managing multiple *Erlang* versions we recommend [kerl](https://github.com/k
 
 ## Cheatsheet
 
-http://bit.ly/2gUN1QS
+https://gist.github.com/afronski/f295e988b6358c6d179adb9d74d4c201
+
+## Tasks
+
+https://gist.github.com/afronski/ac2b3aab278c8314ca6d35b99f7b65c2
 
 ## Please share your feedback
 
