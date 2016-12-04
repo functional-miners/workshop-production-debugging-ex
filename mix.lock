@@ -4,7 +4,7 @@
   "distillery": {:hex, :distillery, "0.10.1", "14fccade4b8ab849b99e21c4bdfaa1092dbacdce8afd33f5c369c6e114385b0e", [:mix], []},
   "edown": {:git, "https://github.com/uwiger/edown.git", "754be25f71a04099c83f3ffdff268e70beeb0021", [branch: "master"]},
   "eflame": {:git, "https://github.com/slfritchie/eflame.git", "a08518142126f5fc541a3a3c4a04c27f24448bae", []},
-  "eper": {:hex, :eper, "0.94.0", "f5fb2daa0df8878748e1c598428eda942a173e5121ff35c1d632129b84593a3a", [:rebar], []},
+  "eper": {:hex, :eper, "0.94.0", "f5fb2daa0df8878748e1c598428eda942a173e5121ff35c1d632129b84593a3a", [:rebar, :rebar], []},
   "erlubi": {:git, "https://github.com/krestenkrab/erlubi.git", "644fd0102c4a7a777f1e6aa8cc4c1b7c5287c2fd", []},
   "ex2ms": {:hex, :ex2ms, "1.4.0", "e43b410888b45ba363ea6650db3736db3e455a0a412ec244ac633fede857bcb2", [:mix], []},
   "exprintf": {:hex, :exprintf, "0.2.0", "6c97364c75ddb848d0d6142ea3d882567369fc60f0b88a009f41470cab068a56", [:mix], []},
