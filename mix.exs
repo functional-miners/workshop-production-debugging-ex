@@ -23,11 +23,11 @@ defmodule KvStore.Mixfile do
   defp apps(:prod),    do: [ :sasl ]
   defp apps(_),        do: []
 
-  defp apps_default(), do: [ :logger, :gen_stage, :cowboy, :plug ]
+  defp apps_default(), do: [ :logger, :gen_stage, :cowboy, :plug, :xprof ]
 
   defp deps do
     [
-      {:cowboy, "~> 1.0", override: true},
+      {:cowboy, "~> 1.0.4"},
       {:plug, "~> 1.2"},
       {:poison, "~> 3.0"},
 
@@ -40,9 +40,8 @@ defmodule KvStore.Mixfile do
       {:tap, "~> 0.1.4"},
 
       {:exprof, "~> 0.2"},
-
-      {:erlubi, github: "krestenkrab/erlubi" },
-      {:xprof, github: "appliscale/xprof" },
+      {:xprof, "1.1.0" },
+      {:jiffy, github: "davisp/jiffy", override: true},
 
       {:gen_stage, "~> 0.4"}
     ]
